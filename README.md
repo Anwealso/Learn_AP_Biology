@@ -4,30 +4,217 @@ This curriculum aims to teach a foundation of biological knowledge to those who 
 
 ### Primary Learning Resources
 - [Khanacademy Biology](https://www.khanacademy.org/science/biology)
-- [UQ Bachelor of Biomedical Science Courses:](https://my.uq.edu.au/programs-courses/program_list.html?acad_prog=2415)
+- [UQ Blackboard](https://learn.uq.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
+- [Crash Course Biology](https://www.youtube.com/watch?v=QnQe0xW_JY4&list=PL3EED4C1D684D3ADF) :heart_eyes:
 
-| **Course Code** | Subject |
-|---|-----|
-| [BIOL1020](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_121775_1&handle=announcements_entry&mode=view) | Genes, Cells & Evolution |
-| [BIOL1040](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_123785_1&handle=announcements_entry&mode=view) | Cells to Organisms |
-| [BIOL2200]() | Cell Structure & Function |
-| [BIOL2202]() | Genetics |
-| [BIOM2011]() | Integrative Cell & Tissue Biology |
-| [BIOM2012]() | Systems Physiology |
 
-# Month 1
-## Week/Unit 1 XXXX
-https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
-## Week/Unit 2 XXXX
-https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
-## Week/Unit 3 XXXX
-https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
-## Week/Unit 4 XXXX
-https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
+
+___
+## **Week 1:** Biochemistry Basics
+## Atomic Sturucture & Bonding
+Khanacedmy:
+https://www.khanacademy.org/science/biology/chemistry--of-life
+
+## Water, acids, and bases
+Crash Course Video:
+https://www.youtube.com/watch?v=HVT3Y3_gHGg&list=PL3EED4C1D684D3ADF&index=2
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/chemistry--of-life
+
+## Carbon
+Crash Course Video:
+https://www.youtube.com/watch?v=QnQe0xW_JY4&list=PL3EED4C1D684D3ADF&index=1&t=1m29s
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/properties-of-carbon
+
+## Macromolecules
+Crash Course Video:
+https://www.youtube.com/watch?v=H8WJ2KENlK0&list=PL3EED4C1D684D3ADF&index=3
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/macromolecules
+
+
+
+___
+# **Week 2:** Cells
+## Animal Cells (Eukaryotic)
+Crash Course Video:
+https://www.youtube.com/watch?v=cj8dDTHGJBY&list=PL3EED4C1D684D3ADF&index=4
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/structure-of-a-cell
+
+## Membranes & Transport
+Crash Course Video:
+https://www.youtube.com/watch?v=dPKvHrD1eS4&list=PL3EED4C1D684D3ADF&index=5
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/membranes-and-transport
+
+## ATP & Respiration
+Crash Course Video:
+https://www.youtube.com/watch?v=00jbG_cfGuQ&list=PL3EED4C1D684D3ADF&index=7
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation
+
+## Plant Cells
+Crash Course Video:
+https://www.youtube.com/watch?v=9UvlqAVCoqY&list=PL3EED4C1D684D3ADF&index=6
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/structure-of-a-cell
+
+## Photosynthesis
+Crash Course Video:
+https://www.youtube.com/watch?v=sQK3Yr4Sc_k&list=PL3EED4C1D684D3ADF&index=8
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/photosynthesis-in-plants
+
+
+___
+# **Week 3:** DNA and Cell Division
+## DNA Structure & Replication
+Crash Course Video:
+https://www.youtube.com/watch?v=8kK2zwjRV0M&list=PL3EED4C1D684D3ADF&index=10
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/dna-as-the-genetic-material
+
+## DNA Transcription & Translation
+Crash Course Video:
+https://www.youtube.com/watch?v=8kK2zwjRV0M&list=PL3EED4C1D684D3ADF&index=11
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/gene-expression-central-dogma
+
+## Mitosis
+Crash Course Video:
+https://www.youtube.com/watch?v=8kK2zwjRV0M&list=PL3EED4C1D684D3ADF&index=12
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/cellular-molecular-biology
+
+## Meiosis
+Crash Course Video:
+https://www.youtube.com/watch?v=8kK2zwjRV0M&list=PL3EED4C1D684D3ADF&index=13
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/cellular-molecular-biology
+
+
+
+___
+# **Week 4:** Genetics
+## Heredity
+Crash Course Video:
+https://www.youtube.com/watch?v=CBezq1fFUEA&list=PL3EED4C1D684D3ADF&index=9
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/classical-genetics,
+
+POPULATION GENETICS: https://www.khanacademy.org/science/biology/her/heredity-and-genetics/v/allele-frequency
+
+## Evolution by Natural Selection
+Crash Course Video:
+https://www.youtube.com/watch?v=aTftyFboC_M&list=PL3EED4C1D684D3ADF&index=14, https://www.youtube.com/watch?v=P3GagfbA2vo&list=PL3EED4C1D684D3ADF&index=20
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection/v/introduction-to-evolution-and-natural-selection
+
+## Speciation
+Crash Course Video:
+https://www.youtube.com/watch?v=2oKlKmrbLoU&list=PL3EED4C1D684D3ADF&index=15
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/her/tree-of-life/v/taxonomy-and-the-tree-of-life
+
+## Animal Development
+Crash Course Video:
+...
+
+Khanacademy:
+...
+
+## Evolutionary Development
+Crash Course Video:
+...
+
+Khanacademy:
+...
+
+## Population Genetics
+Crash Course Video:
+...
+
+Khanacademy:
+...
+
+## Taxonomy
+Crash Course Video:
+...
+
+Khanacademy:
+...
+
+## Title
+Crash Course Video:
+...
+
+Khanacademy:
+...
+
+
 
 ---
-## Further Study
+# **Week 5:** Title
+## Title
+Crash Course Video:
+...
+
+Khanacademy:
+...
+
+
+
+---
+# **Week 6:** Title
+## Title
+Crash Course Video:
+...
+
+Khanacademy:
+...
+
+
+
+---
+# **Week 7:** Title
+## Title
+Crash Course Video:
+...
+
+Khanacademy:
+...
+
+
+
+---
+# **Week 8:** AP Biology Exam Practice
+## Title
+Crash Course Video:
+...
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/studying-for-ap-bio-exam
+
+
+---
+# Additional Topics
 ### How to Read a Scientific Paper
 
 myguide...
@@ -51,6 +238,17 @@ https://stanfordmlgroup.github.io/pro
 ...
 
 ---
-*Additional Resources:*
-- People in ML to [follow on Twitter](https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-machine-learning-information "Quora.com")
-- Join the ["Wizards" Slack channel](http://wizards.herokuapp.com/ "Herokuapp.com")
+# Further Study
+[UQ Bachelor of Biomedical Science Courses:](https://my.uq.edu.au/programs-courses/program_list.html?acad_prog=2415)
+
+| **Course Code** | Subject |
+|---|-----|
+| [BIOL1020](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_121775_1&handle=announcements_entry&mode=view) | Genes, Cells & Evolution |
+| [BIOL1040](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_123785_1&handle=announcements_entry&mode=view) | Cells to Organisms |
+| [BIOL2200](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_123793_1&handle=announcements_entry&mode=view) | Cell Structure & Function |
+| [BIOM2011](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_123402_1&handle=announcements_entry&mode=view) | Integrative Cell & Tissue Biology |
+| [BIOC2000](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_122291_1&handle=announcements_entry&mode=view) | Genetics |
+| [BIOL2202](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_117435_1&handle=announcements_entry&mode=view) | Genetics |
+| [BIOL2208]() | Differentiation & Development |
+| [BIOM2402](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_119399_1&handle=announcements_entry&mode=view) | Principles of Pharmacology |
+| [BIOM2012](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_120051_1&handle=announcements_entry&mode=view) | Systems Physiology |
