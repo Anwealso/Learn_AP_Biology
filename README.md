@@ -1,14 +1,20 @@
-# Learn_AP_Biology
+# Learn AP Biology
 
 This curriculum aims to teach a foundation of biological knowledge to those who are of a computer science or engineering background but have an interest in biological applications (@me).
 
 ### Primary Learning Resources
 - [Khanacademy Biology](https://www.khanacademy.org/science/biology)
--
-
+- [UQ Bachelor of Biomedical Science Courses:](https://my.uq.edu.au/programs-courses/program_list.html?acad_prog=2415)
+| **Course Code** | Subject |
+|---|-----|
+| [BIOL1020](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_121775_1&handle=announcements_entry&mode=view) | Genes, Cells & Evolution |
+| [BIOL1040](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_123785_1&handle=announcements_entry&mode=view) | Cells to Organisms |
+| [BIOL2200]() | Cell Structure & Function |
+| [BIOL2202]() | Genetics |
+| [BIOM2011]() | Integrative Cell & Tissue Biology |
+| [BIOM2012]() | Systems Physiology |
 
 # Month 1
-
 ## Week/Unit 1 XXXX
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
