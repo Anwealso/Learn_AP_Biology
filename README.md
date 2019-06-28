@@ -210,8 +210,11 @@ https://www.khanacademy.org/science/biology/human-biology
 
 ---
 # **Week 7:** Final Exam
-##AP Biology Exam Practice
+## AP Biology Exam Practice
 ...
+
+## AP Biology Exam Practice
+*TODO: Need to put together my own custom examination for the course*
 
 
 
@@ -238,7 +241,7 @@ BIODIVERSITY: https://www.khanacademy.org/science/biology/biodiversity-and-conse
 
 [A good video guide](https://www.youtube.com/watch?v=JhyCDAi6NKM) by Med School Insiders
 \
-*My written guide ...*
+*TODO: Write my written guide ...*
 
 
 
