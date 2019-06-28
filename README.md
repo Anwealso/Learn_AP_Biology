@@ -5,6 +5,7 @@ This curriculum aims to teach a foundation of biological knowledge to those who 
 ### Primary Learning Resources
 - [Khanacademy Biology](https://www.khanacademy.org/science/biology)
 - [UQ Bachelor of Biomedical Science Courses:](https://my.uq.edu.au/programs-courses/program_list.html?acad_prog=2415)
+
 | **Course Code** | Subject |
 |---|-----|
 | [BIOL1020](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_121775_1&handle=announcements_entry&mode=view) | Genes, Cells & Evolution |
