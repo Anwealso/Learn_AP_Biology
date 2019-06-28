@@ -1,6 +1,6 @@
 # Learn AP Biology
 
-This curriculum aims to teach a foundation of biological knowledge to those who are of a computer science or engineering background but have an interest in biological applications (@me).
+This curriculum aims to teach a foundation of biological knowledge to those who are of a computer science or engineering background but have an interest in biological applications (@me). The cintent will be similar to content to that of the AP biology program but is not explicitly meant as a study guide for that program.
 
 ### Primary Learning Resources
 - [Khanacademy Biology](https://www.khanacademy.org/science/biology)
@@ -10,7 +10,7 @@ This curriculum aims to teach a foundation of biological knowledge to those who 
 
 
 ___
-## **Week 1:** Biochemistry Basics
+# **Week 1:** Biochemistry Basics
 ## Atomic Sturucture & Bonding
 Khanacedmy:
 https://www.khanacademy.org/science/biology/chemistry--of-life
@@ -109,19 +109,26 @@ https://www.khanacademy.org/science/biology/cellular-molecular-biology
 
 
 ___
-# **Week 4:** Genetics
+# **Week 4:** Genetics 1
 ## Heredity
 Crash Course Video:
 https://www.youtube.com/watch?v=CBezq1fFUEA&list=PL3EED4C1D684D3ADF&index=9
 
 Khanacademy:
-https://www.khanacademy.org/science/biology/classical-genetics,
-
+>HEREDITY: https://www.khanacademy.org/science/biology/classical-genetics,
 POPULATION GENETICS: https://www.khanacademy.org/science/biology/her/heredity-and-genetics/v/allele-frequency
+
+## Epigenetics
+Crash Course Video:
+...
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/gene-regulation
 
 ## Evolution by Natural Selection
 Crash Course Video:
-https://www.youtube.com/watch?v=aTftyFboC_M&list=PL3EED4C1D684D3ADF&index=14, https://www.youtube.com/watch?v=P3GagfbA2vo&list=PL3EED4C1D684D3ADF&index=20
+>NATURAL SELECTION: https://www.youtube.com/watch?v=aTftyFboC_M&list=PL3EED4C1D684D3ADF&index=14
+EVOLUTION: https://www.youtube.com/watch?v=P3GagfbA2vo&list=PL3EED4C1D684D3ADF&index=20
 
 Khanacademy:
 https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection/v/introduction-to-evolution-and-natural-selection
@@ -131,95 +138,112 @@ Crash Course Video:
 https://www.youtube.com/watch?v=2oKlKmrbLoU&list=PL3EED4C1D684D3ADF&index=15
 
 Khanacademy:
-https://www.khanacademy.org/science/biology/her/tree-of-life/v/taxonomy-and-the-tree-of-life
+https://www.khanacademy.org/science/biology/her#tree-of-life
 
 ## Animal Development
 Crash Course Video:
-...
+https://www.youtube.com/watch?v=k_9MTZgAhv0&list=PL3EED4C1D684D3ADF&index=16
 
 Khanacademy:
 ...
 
 ## Evolutionary Development
 Crash Course Video:
-...
+https://www.youtube.com/watch?v=k_9MTZgAhv0&list=PL3EED4C1D684D3ADF&index=17
 
 Khanacademy:
 ...
 
 ## Population Genetics
 Crash Course Video:
-...
+https://www.youtube.com/watch?v=k_9MTZgAhv0&list=PL3EED4C1D684D3ADF&index=18
 
 Khanacademy:
-...
+https://www.khanacademy.org/science/biology/her#heredity-and-genetics
 
 ## Taxonomy
 Crash Course Video:
-...
+https://www.youtube.com/watch?v=k_9MTZgAhv0&list=PL3EED4C1D684D3ADF&index=19
 
 Khanacademy:
-...
+https://www.khanacademy.org/science/biology/her/tree-of-life/v/taxonomy-and-the-tree-of-life
 
-## Title
-Crash Course Video:
-...
-
-Khanacademy:
-...
 
 
 
 ---
-# **Week 5:** Title
-## Title
+# **Week 5:** Genetics 2
+*Need to take some of the content out of week 4 into this section to split things up a bit*
+
+## Biotechnology
+Khanacademy:
+https://www.khanacademy.org/science/biology/biotech-dna-technology
+
+Kurgesagt Video: https://www.youtube.com/watch?v=jAhjPd4uNFY
+
+___
+# **Week 6:** Human Biology
+
+## Physiology
 Crash Course Video:
 ...
 
 Khanacademy:
-...
+https://www.khanacademy.org/science/biology/principles-of-physiology
 
+## Basic Anatomy
+Crash Course Videos:
+>NERVOUS SYSTEM: https://www.youtube.com/watch?v=x4PPZCLnVkA&list=PL3EED4C1D684D3ADF&index=27
+CIRCULATORY AND RESPIRATORY SYSTEMS: https://www.youtube.com/watch?v=x4PPZCLnVkA&list=PL3EED4C1D684D3ADF&index=28
+DIGESTIVE SYSTEM: https://www.youtube.com/watch?v=x4PPZCLnVkA&list=PL3EED4C1D684D3ADF&index=29
+EXCRETORY SYSTEM: https://www.youtube.com/watch?v=x4PPZCLnVkA&list=PL3EED4C1D684D3ADF&index=30
+SKELETAL SYSTEM: https://www.youtube.com/watch?v=x4PPZCLnVkA&list=PL3EED4C1D684D3ADF&index=31
+MUSCULAR SYSTEM: https://www.youtube.com/watch?v=x4PPZCLnVkA&list=PL3EED4C1D684D3ADF&index=32
+IMMUNE SYSTEM: https://www.youtube.com/watch?v=x4PPZCLnVkA&list=PL3EED4C1D684D3ADF&index=33
+ENDOCRINE SYSTEM: https://www.youtube.com/watch?v=x4PPZCLnVkA&list=PL3EED4C1D684D3ADF&index=34
+REPRODUCTIVE SYSTEM: https://www.youtube.com/watch?v=x4PPZCLnVkA&list=PL3EED4C1D684D3ADF&index=35
+
+
+Khanacademy:
+https://www.khanacademy.org/science/biology/human-biology
 
 
 ---
-# **Week 6:** Title
-## Title
-Crash Course Video:
+# **Week 7:** Final Exam
+##AP Biology Exam Practice
 ...
 
-Khanacademy:
-...
-
-
-
----
-# **Week 7:** Title
-## Title
-Crash Course Video:
-...
-
-Khanacademy:
-...
-
-
-
----
-# **Week 8:** AP Biology Exam Practice
-## Title
-Crash Course Video:
-...
-
-Khanacademy:
-https://www.khanacademy.org/science/biology/studying-for-ap-bio-exam
 
 
 ---
 # Additional Topics
-### How to Read a Scientific Paper
+## More Life Forms
+Bacteria & Archaea
+\
+Khanacademy: https://www.khanacademy.org/science/biology/bacteria-archaea
 
-myguide...
+Viruses
+\
+Khanacademy: https://www.khanacademy.org/science/biology/biology-of-viruses
+
+## Ecology and Biodiverstiy
+Crash Course Video:
+...
+
+Khanacademy:
+>ECOLOGY: https://www.khanacademy.org/science/biology/ecology
+BIODIVERSITY: https://www.khanacademy.org/science/biology/biodiversity-and-conservation
+
+## How to Read a Scientific Paper
 
 [A good video guide](https://www.youtube.com/watch?v=JhyCDAi6NKM) by Med School Insiders
+\
+*My written guide ...*
+
+
+
+___
+# Applications
 
 ### Biological Computing
 [ColdFusion: "Nano-Biological Computing – Quantum Computer Alternative!""](https://www.youtube.com/watch?v=xcHcNyC6O84)
@@ -247,7 +271,7 @@ https://stanfordmlgroup.github.io/pro
 | [BIOL1040](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_123785_1&handle=announcements_entry&mode=view) | Cells to Organisms |
 | [BIOL2200](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_123793_1&handle=announcements_entry&mode=view) | Cell Structure & Function |
 | [BIOM2011](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_123402_1&handle=announcements_entry&mode=view) | Integrative Cell & Tissue Biology |
-| [BIOC2000](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_122291_1&handle=announcements_entry&mode=view) | Genetics |
+| [BIOC2000](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_122291_1&handle=announcements_entry&mode=view) | Biochemistry & Molecular Biology |
 | [BIOL2202](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_117435_1&handle=announcements_entry&mode=view) | Genetics |
 | [BIOL2208]() | Differentiation & Development |
 | [BIOM2402](https://learn.uq.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_119399_1&handle=announcements_entry&mode=view) | Principles of Pharmacology |
