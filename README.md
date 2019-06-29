@@ -264,6 +264,9 @@ https://stanfordmlgroup.github.io/pro
 
 ...
 
+### Brain Computer Interface
+https://engineering.cmu.edu/news-events/news/2019/06/20-he-sci-robotics.html
+
 ---
 # Further Study
 [UQ Bachelor of Biomedical Science Courses:](https://my.uq.edu.au/programs-courses/program_list.html?acad_prog=2415)
