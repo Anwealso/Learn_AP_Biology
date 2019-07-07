@@ -147,6 +147,11 @@ https://www.youtube.com/watch?v=k_9MTZgAhv0&list=PL3EED4C1D684D3ADF&index=16
 Khanacademy:
 ...
 
+
+---
+# **Week 5:** Genetics 2
+*Need to take some of the content out of week 4 into this section to split things up a bit*
+
 ## Evolutionary Development
 Crash Course Video:
 https://www.youtube.com/watch?v=9sjwlxQ_6LI&list=PL3EED4C1D684D3ADF&index=18&t=0s
@@ -167,13 +172,6 @@ https://www.youtube.com/watch?v=k_9MTZgAhv0&list=PL3EED4C1D684D3ADF&index=19
 
 Khanacademy:
 https://www.khanacademy.org/science/biology/her/tree-of-life/v/taxonomy-and-the-tree-of-life
-
-
-
-
----
-# **Week 5:** Genetics 2
-*Need to take some of the content out of week 4 into this section to split things up a bit*
 
 ## Biotechnology
 Khanacademy:
