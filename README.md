@@ -115,7 +115,8 @@ Crash Course Video:
 https://www.youtube.com/watch?v=CBezq1fFUEA&list=PL3EED4C1D684D3ADF&index=9
 
 Khanacademy:
->HEREDITY: https://www.khanacademy.org/science/biology/classical-genetics,
+HEREDITY: https://www.khanacademy.org/science/biology/classical-genetics,
+/
 POPULATION GENETICS: https://www.khanacademy.org/science/biology/her/heredity-and-genetics/v/allele-frequency
 
 ## Epigenetics
@@ -130,7 +131,8 @@ https://www.khanacademy.org/science/biology/gene-regulation
 
 ## Evolution by Natural Selection
 Crash Course Video:
->NATURAL SELECTION: https://www.youtube.com/watch?v=aTftyFboC_M&list=PL3EED4C1D684D3ADF&index=14
+NATURAL SELECTION: https://www.youtube.com/watch?v=aTftyFboC_M&list=PL3EED4C1D684D3ADF&index=14
+/
 EVOLUTION: https://www.youtube.com/watch?v=P3GagfbA2vo&list=PL3EED4C1D684D3ADF&index=20
 
 Khanacademy:
