@@ -149,7 +149,7 @@ Khanacademy:
 
 ## Evolutionary Development
 Crash Course Video:
-https://www.youtube.com/watch?v=9sjwlxQ_6LI&list=PL3EED4C1D684D3ADF&index=17
+https://www.youtube.com/watch?v=9sjwlxQ_6LI&list=PL3EED4C1D684D3ADF&index=18&t=0s
 
 Khanacademy:
 ...
