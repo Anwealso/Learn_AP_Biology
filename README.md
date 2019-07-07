@@ -120,7 +120,10 @@ POPULATION GENETICS: https://www.khanacademy.org/science/biology/her/heredity-an
 
 ## Epigenetics
 Crash Course Video:
-...
+https://www.youtube.com/watch?v=kp1bZEUgqVI
+
+A more detailed video from Garvan IMR:
+https://www.youtube.com/watch?v=hgYMgNrr7mQ
 
 Khanacademy:
 https://www.khanacademy.org/science/biology/gene-regulation
